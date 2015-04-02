@@ -30,6 +30,13 @@
 	font-size: 14px;
 }
 
+.location{
+  text-align: center;
+  color: #96255e;
+  font-family: 'Georgia';
+  font-size: 14px;
+}
+
 /*In-class styling from the Guardian is below.
 
  font-size: 30px;
