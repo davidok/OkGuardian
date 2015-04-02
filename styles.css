@@ -1,0 +1,10 @@
+.mainQuote {
+  font-size: 30px;
+  width: 700px;
+  margin: 0 auto;
+  line-height: 35px;
+  font-family: 'Egyptian Slate Std';
+  float: left;
+  margin-bottom: 10px;
+  text-align: left;
+}
