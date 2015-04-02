@@ -2,10 +2,17 @@
 
 .mainQuote {
 	font-size: 40px;
-	text-shadow: 7px -1px 17px rgba(0,0,0,0.46), 8px -1px 18px rgba(0,0,0,0.44), 4px 7px 67px rgba(0,0,0,0.46), -9px 18px 26px rgba(0,0,0,0.47);
 	font-family: 'Gotham A', 'Gotham B';
 	font-weight: 900;
 	font-style: normal;
+}
+
+.wholeQuote{
+	background: -webkit-gradient(linear,left top,left bottom,from(#ff0052),to(#8e2b88));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+	
+}
 	
 	
 	/*In-class styling from the Guardian is below.  
