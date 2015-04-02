@@ -1,5 +1,9 @@
 /* Styling inspired by Polygon.com: http://www.polygon.com/features/2015/3/30/8311735/the-walking-dead-invincible-outcast-fear-the-walking-dead-interview-robert-kirkman*/
 
+body {
+	background-image: url("http://www.wallpapersgalaxy.com/wp-content/uploads/2011/06/111.jpg");
+	background-repeat: no-repeat;
+}
 .mainQuote {
 	font-size: 40px;
 	font-family: 'Impact';
@@ -31,12 +35,12 @@
 	font-style: italic;
 }
 
-.location{
-  text-align: center;
-  color: #96255e;
-  font-family: 'Georgia';
-  font-size: 14px;
-  font-style: italic;
+.location {
+	text-align: center;
+	color: #96255e;
+	font-family: 'Georgia';
+	font-size: 14px;
+	font-style: italic;
 }
 
 /*In-class styling from the Guardian is below.
