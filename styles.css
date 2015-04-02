@@ -1,10 +1,15 @@
 .mainQuote {
-  font-size: 30px;
-  width: 700px;
-  margin: 0 auto;
-  line-height: 35px;
-  font-family: 'Egyptian Slate Std';
-  float: left;
-  margin-bottom: 10px;
-  text-align: left;
+	font-size: 40px;
+	text-shadow: 7px -1px 17px rgba(0,0,0,0.46), 8px -1px 18px rgba(0,0,0,0.44), 4px 7px 67px rgba(0,0,0,0.46), -9px 18px 26px rgba(0,0,0,0.47);
+	font-family: 'Gotham A', 'Gotham B';
+	font-weight: 900;
+	font-style: normal;
+	/*  font-size: 30px;
+	 width: 700px;
+	 margin: 0 auto;
+	 line-height: 35px;
+	 font-family: 'Egyptian Slate Std';
+	 float: left;
+	 margin-bottom: 10px;
+	 text-align: left; */
 }
