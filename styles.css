@@ -7,22 +7,21 @@
 	font-style: normal;
 }
 
-.wholeQuote{
+.wholeQuote {
+	font-size: 20px;
 	background: -webkit-gradient(linear,left top,left bottom,from(#ff0052),to(#8e2b88));
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-	
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
 }
-	
-	
-	/*In-class styling from the Guardian is below.  
-	  
-	 font-size: 30px;
-	 width: 700px;
-	 margin: 0 auto;
-	 line-height: 35px;
-	 font-family: 'Egyptian Slate Std';
-	 float: left;
-	 margin-bottom: 10px;
-	 text-align: left; */
+
+/*In-class styling from the Guardian is below.
+
+ font-size: 30px;
+ width: 700px;
+ margin: 0 auto;
+ line-height: 35px;
+ font-family: 'Egyptian Slate Std';
+ float: left;
+ margin-bottom: 10px;
+ text-align: left; */
 }
