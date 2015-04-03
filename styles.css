@@ -4,6 +4,12 @@ body {
 	background-image: url("http://fc01.deviantart.net/fs71/i/2011/190/c/b/leather_darkgrey_by_narkos01-d3lhij4.jpg");
 	background-repeat: no-repeat;
 }
+
+p {
+	color: white;
+	font-family: 'Century Gothic';
+}
+
 .mainQuote {
 	font-size: 40px;
 	font-family: 'Impact';
